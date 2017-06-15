@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wrook.png",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\drawable\\wrook.png"
+    },
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bking.png",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\drawable\\bking.png"
+    },
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wking.png",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\drawable\\wking.png"
+    },
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\brook.png",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\drawable\\brook.png"
+    },
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wqueen.png",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\drawable\\wqueen.png"
+    },
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w.jpg",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\drawable\\w.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bpawn.png",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\drawable\\bpawn.png"
+    },
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b.jpg",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\drawable\\b.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wbishop.png",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\drawable\\wbishop.png"
+    },
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bknight.png",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\drawable\\bknight.png"
+    },
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bqueen.png",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\drawable\\bqueen.png"
+    },
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wknight.png",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\drawable\\wknight.png"
+    },
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bbishop.png",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\drawable\\bbishop.png"
+    },
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wpawn.png",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\drawable\\wpawn.png"
+    }
+]

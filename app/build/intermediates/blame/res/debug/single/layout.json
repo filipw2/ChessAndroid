@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\square.xml",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\layout\\square.xml"
+    },
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chessboard.xml",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\layout\\chessboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Filip\\StudioProjects\\Szachy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

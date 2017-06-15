@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Filip\.android\build-cache\db60c6d707272737800101038cf326bb7c97d44a\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Filip\StudioProjects\Szachy\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_21e13c128ac7c9794b079e3e25ae806791445f0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Filip\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Filip\StudioProjects\Szachy\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_13b30466421100cc1785a337f6055f6db8ce2954\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Filip\StudioProjects\Szachy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Filip\StudioProjects\Szachy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5535e50eaec7dbed25b75553ab58fe9124a4963b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Filip\.android\build-cache\db60c6d707272737800101038cf326bb7c97d44a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Filip\StudioProjects\Szachy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_620b197ba27fcc61469d9605c232c037a4f931d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Filip\StudioProjects\Szachy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1a1c961b0fdc19ebfb477c8955e19bc2cd55de6">
+        <dex dex="C:\Users\Filip\StudioProjects\Szachy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cd300e2b53045837d44a117fab8335a9575f6b91\classes.dex" />
+    </item>
+
+</items>

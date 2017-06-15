@@ -1,0 +1,10 @@
+#Thu Jun 15 19:48:11 CEST 2017
+renamed.2=classes.dex
+renamed.1=classes3.dex
+renamed.0=classes2.dex
+base.2=C\:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_620b197ba27fcc61469d9605c232c037a4f931d0
+base.1=C\:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_13b30466421100cc1785a337f6055f6db8ce2954
+base.0=C\:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_21e13c128ac7c9794b079e3e25ae806791445f0f
+file.2=C\:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_620b197ba27fcc61469d9605c232c037a4f931d0\\classes.dex
+file.1=C\:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_13b30466421100cc1785a337f6055f6db8ce2954\\classes.dex
+file.0=C\:\\Users\\Filip\\StudioProjects\\Szachy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_21e13c128ac7c9794b079e3e25ae806791445f0f\\classes.dex
